@@ -1,9 +1,0 @@
-{
-        "rewrites": [
-          {
-            "source": "/my-vite-app/(.*)",
-            "destination": "/home/aditya/Downloads/website project/my-vite-app"
-          }
-        ]
-      }
-      

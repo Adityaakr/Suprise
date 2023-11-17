@@ -44,7 +44,7 @@ function Intro() {
         {text}
       </p>
       <button
-        className="ml-60 mt-10 left-1/2 transform -translate-x-1/2 px-4 py-2 text-white bg-blue-500 rounded-md hover:bg-blue-700 focus:outline-none focus:ring focus:border-blue-300 mt-50"
+        className="ml-40 mt-10 left-1/2 transform -translate-x-1/2 px-4 py-2 text-white bg-blue-500 rounded-md hover:bg-blue-700 focus:outline-none focus:ring focus:border-blue-300 mt-50"
         onClick={handleScrollDown}
       >
         Scroll Down

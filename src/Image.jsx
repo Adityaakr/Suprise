@@ -3,7 +3,7 @@ import React from 'react';
 function CardOne({username, btnText, image}) {
     console.log(username,btnText,image);
   return (
-    <div className="ml-20 mt-10 relative h-[400px] w-[300px] rounded-md">
+    <div className="ml-10 mt-10 relative h-[400px] w-[300px] rounded-md">
       <img
         src={image}
         className="z-0 h-full w-full rounded-md object-cover"
