@@ -5,8 +5,7 @@ function CardOne({username, btnText, image}) {
   return (
     <div className="ml-10 mt-10 relative h-[400px] w-[300px] rounded-md">
       <img
-        src={image};
-        className="z-0 h-full w-full rounded-md object-cover"
+        src={image}
       />
       <div className="absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent"></div>
       <div className="absolute bottom-4 left-4 text-left">
