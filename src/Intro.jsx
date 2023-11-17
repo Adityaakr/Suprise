@@ -40,7 +40,7 @@ function Intro() {
 
   return (
     <div className="relative bg-gray-100 p-4 rounded-md mb-4 sm:mb-8 lg:mb-12">
-      <p className="text-4xl font-semibold font-serif text-blue-500 sm:text-2xl lg:text-3xl">
+      <p className="text-5xl font-semibold font-serif text-blue-500 sm:text-2xl lg:text-3xl">
         {text}
       </p>
       <button
