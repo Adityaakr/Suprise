@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 function Intro() {
   const [text, setText] = useState('');
   const words = ['student', 'coder', 'artist', 'programmer', 'learner'];
-  const phrases = words.map((word) => `I am a passionate ${word}`);
+  const phrases = words.map((word) => `Hey! I'm a passionate ${word}`);
 
   useEffect(() => {
     let index = 0;
